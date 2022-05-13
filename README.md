@@ -1,5 +1,5 @@
 # LCDTempNotify
-โครงงานพัฒนาเกี่ยวกับ MicroController ที่เกี่ยวข้องกับ การวัดค่าอุณหภูมิผ่าน Temp Sensor แล้วไปแสดงผลยังจอ LCD โดยใช้บอร์ด UNO ใน Wokwi เพื่อทำ Simulation และเชื่อมต่อเข้ากับ NTC Temp Sensor, LCD และ LED Light เพื่อแจ้งเตือนหากวัดอุณหภูมิได้ 37.5 ขึ้นไป สามารถนำไปประยุกต์ใช้กับการทำ เครื่องมือวัดอุณหภูมิ Covid-19 ได้
+โครงงานพัฒนาเกี่ยวกับ MicroController ที่เกี่ยวข้องกับ การวัดค่าอุณหภูมิผ่าน Temp Sensor แล้วไปแสดงผลยังจอ LCD โดยใช้บอร์ด Arduino UNO ใน Wokwi เพื่อทำ Simulation และเชื่อมต่อเข้ากับ NTC Temp Sensor, LCD และ LED Light เพื่อแจ้งเตือนหากวัดอุณหภูมิได้ 37.5 ขึ้นไป สามารถนำไปประยุกต์ใช้กับการทำ เครื่องมือวัดอุณหภูมิ Covid-19 ได้
 
 ![enter image description here](https://github.com/sedthanun/LcdTempNotify/blob/main/pic_project2.jpg?raw=true)
 
